@@ -3,7 +3,7 @@
 
 #### <a href=""> 알츠하이머 발병 수준 예측 </a>
 
-#### <a href=""> 사과, 토마토 예측 </a>
+#### <a href="https://github.com/SOYOUNGdev/project_deep_learning/wiki/Apple-or-Tomato-%E2%80%90-CNN-Project(Binary-Classification)"> 사과, 토마토 예측(CNN-Binary classification) </a>
 
 #### <a href=""> 신발 종류 예측 </a>
 
