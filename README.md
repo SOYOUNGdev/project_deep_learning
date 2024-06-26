@@ -1,7 +1,6 @@
-### 딥러닝 프로젝트
----
+## 딥러닝 프로젝트
 
-#### <a href=""> 알츠하이머 발병 수준 예측 </a>
+#### <a href="https://github.com/SOYOUNGdev/project_deep_learning/wiki/4-Level-Classification-of-Alzheimer's-Disease-(CNN-%E2%80%90-Multiple-Classification)"> 알츠하이머 발병 수준 예측(CNN-Multiple Classification) </a>
 
 #### <a href="https://github.com/SOYOUNGdev/project_deep_learning/wiki/Apple-or-Tomato-%E2%80%90-CNN-Project(Binary-Classification)"> 사과, 토마토 예측(CNN-Binary classification) </a>
 
